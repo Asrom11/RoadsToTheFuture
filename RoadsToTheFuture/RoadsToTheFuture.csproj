@@ -15,7 +15,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="wwwroot\" />
+    <Folder Include="Dal\" />
+    <Folder Include="Service\" />
   </ItemGroup>
 
 </Project>
